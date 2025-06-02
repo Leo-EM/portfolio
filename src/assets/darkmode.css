@@ -1,0 +1,60 @@
+/* ========== DARK MODE ========== */
+
+/* Toggle */
+.modo-toggle {
+    transform: scale(1.2);;
+}
+
+/* Dark Mode */
+body.dark-mode * {
+    color: black;
+}
+
+/* Header oscuro */
+body.dark-mode .contenido-banner {
+    background-color: #b7b7b7;
+}
+
+/* Sobre Mi oscuro */
+body.dark-mode .sobremi {
+    background: linear-gradient(to top, rgba(180, 180, 180, 0.8), rgb(70, 70, 70));
+}
+
+body.dark-mode .sobremi .contenido-seccion {
+    background-color: #b7b7b7;
+}
+
+body.dark-mode .sobremi .fila .col .contenedor-contacto .contacto {
+    background-color: #b7b7b7;
+} body.dark-mode .sobremi .fila .col .contenedor-contacto .contacto:hover {
+    background-color: #1CB698;
+}
+
+body.dark-mode .boton-cv {
+    color: black;
+    border: 2px solid black;
+}
+
+/* Skills oscuro */
+body.dark-mode .skills {
+    background-color: #b7b7b7;
+}
+
+body.dark-mode .skills .skill-card {
+    background-color: #b7b7b7;
+    box-shadow: 0 0 20px rgba(0,0,0,.5);
+}
+
+/* Portfolio oscuro */
+body.dark-mode .portfolio {
+    background-color: #b7b7b7;
+}
+
+/* Contacto oscuro */
+body.dark-mode .contacto {
+    background-color: #b7b7b7;
+}
+
+body.dark-mode .contacto button {
+    border: 2px solid black;
+}

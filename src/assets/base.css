@@ -1,0 +1,30 @@
+/* ============================ BASE ============================ */
+
+/* Fuentes */
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Work+Sans:wght@100;300;400;600;800&display=swap');
+
+/* Reset */
+*{
+    box-sizing: border-box;
+    font-family: 'Work Sans';
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+/* Contenedor secciones */
+.contenido-seccion {
+    max-width: 1100px;
+    margin: auto;
+    padding: 10px;
+}
+  
+/* Títulos */
+h2 {
+    font-size: 48px;
+    font-family: 'Righteous';
+    text-align: center;
+}

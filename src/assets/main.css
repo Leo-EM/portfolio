@@ -1,0 +1,12 @@
+/* ============================ MAIN CSS - IMPORTS ============================ */
+@import './base.css';
+@import './header.css';
+@import './inicio.css';
+@import './sobremi.css';
+@import './skills.css';
+@import './portfolio.css';
+@import './contacto.css';
+@import './footer.css';
+@import './darkmode.css';
+@import './responsive.css';
+
