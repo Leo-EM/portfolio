@@ -1,29 +1,46 @@
-# portfolio
+# Portfolio Web – Leonardo Corales
 
-This template should help get you started developing with Vue 3 in Vite.
+Este es mi portfolio profesional desarrollado con **Vue 3** y **Vite** donde muestro mis proyectos, habilidades y medios de contacto.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🌐 Sitio en producción
 
-## Customize configuration
+👉 [https://tu-nombre.vercel.app](https://tu-nombre.vercel.app) 
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## 🚀 Tecnologías usadas
 
-```sh
-npm install
-```
+- ⚙️ Vue 3 (Composition API)
+- ⚡ Vite
+- 🎨 CSS personalizado (no framework)
+- 💻 EmailJS (formulario de contacto)
+- 🎯 Font Awesome (íconos)
+- 🌗 Modo Día/Noche (con `localStorage`)
+- 📱 Diseño responsive mobile-first
 
-### Compile and Hot-Reload for Development
+---
 
-```sh
-npm run dev
-```
+## ✨ Funcionalidades
 
-### Compile and Minify for Production
+- Página de presentación con avatar y redes.
+- Sección "Sobre mí" con descripción personal.
+- Skills técnicas con íconos y habilidades blandas con descripciones.
+- Proyectos del portfolio con enlaces y tecnologías usadas.
+- Formulario funcional con validación y envío vía EmailJS.
+- Botón flotante de cambio de tema (dark/light).
+- Optimización básica para SEO (`robots.txt`, `sitemap.xml`).
 
-```sh
-npm run build
-```
+---
+
+## 📫 Contacto
+
+Podés escribirme a través del formulario o por mis redes sociales incluidas en el sitio.
+
+---
+
+## 🛠️ Autor
+
+Desarrollado por **Leonardo Corales**  
+[GitHub](https://github.com/Leo-EM)
