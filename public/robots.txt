@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tu-nombre.vercel.app/sitemap.xml
+Sitemap: https://portfolio-leonardo-corales.vercel.app
