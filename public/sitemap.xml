@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tu-nombre.vercel.app/</loc>
+    <loc>https://portfolio-leonardo-corales.vercel.app</loc>
   </url>
   <url>
-    <loc>https://tu-nombre.vercel.app/#sobremi</loc>
+    <loc>https://portfolio-leonardo-corales.vercel.app/#sobremi</loc>
   </url>
   <url>
-    <loc>https://tu-nombre.vercel.app/#skills</loc>
+    <loc>https://portfolio-leonardo-corales.vercel.app/#skills</loc>
   </url>
   <url>
-    <loc>https://tu-nombre.vercel.app/#portfolio</loc>
+    <loc>https://portfolio-leonardo-corales.vercel.app/#portfolio</loc>
   </url>
   <url>
-    <loc>https://tu-nombre.vercel.app/#contacto</loc>
+    <loc>https://portfolio-leonardo-corales.vercel.app/#contacto</loc>
   </url>
 </urlset>
